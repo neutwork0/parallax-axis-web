@@ -1,0 +1,5 @@
+Noto Serif CJK KR (본명조) Regular and SemiBold — every Korean word the game says except the
+poem, cut down to the syllables it uses (text-kr-400), the lobby's 한글 key (text-kr-key) and the
+three AIR names set in bold (text-kr-600).
+© 2017-2023 Adobe (http://www.adobe.com/). Noto is a trademark of Google Inc.
+Licensed under the SIL Open Font License 1.1 — the licence text is in pinyon-OFL.txt.

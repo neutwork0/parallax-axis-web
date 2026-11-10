@@ -1,0 +1,4 @@
+Cormorant Garamond (cormorant.woff2 400, cormorant-600.woff2 600)
+Copyright 2015 The Cormorant Project Authors (https://github.com/CatharsisFonts/Cormorant)
+Licensed under the SIL Open Font License, Version 1.1. https://openfontlicense.org
+Subset woff2 files carried over from the PARALLAX AXIS demo build (web-demo/src/assets).
